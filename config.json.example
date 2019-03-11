@@ -10,7 +10,7 @@
   "coinAddressLength": 99,
   "coinAddressPrefix": "hann",
   "tipFee": 0.1,
-  "tipMixin": 3,
+  "tipMixin": 0,
   "tipSuccessReact": "💸",
   "tipFailedReact": "🆘",
   "tipLowBalanceReact": "❌",
